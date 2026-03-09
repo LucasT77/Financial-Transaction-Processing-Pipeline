@@ -123,7 +123,7 @@ Daily Transaction Volume
 - Command-Line Interface (CLI)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Future Improvements~
+## Future Improvements
 Possible Future Improvements
 - Structured logging
 - Automated unit tests (pytest)
