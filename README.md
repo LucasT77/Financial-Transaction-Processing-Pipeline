@@ -69,8 +69,8 @@ tx1003,2024-01-02T09:15:00,200.00,USD
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
-git clone ?? 
-cd ??
+git clone https://github.com/LucasT77/Financial-Transaction-Processing-Pipeline.git
+cd Financial-Transaction-Processing-Pipeline
 
 No external dependencies are required.
 Python 3.9+ recommended.
