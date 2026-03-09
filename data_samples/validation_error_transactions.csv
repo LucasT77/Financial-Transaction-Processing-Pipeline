@@ -1,0 +1,4 @@
+transaction_id,timestamp,amount,currency
+tx3001,not-a-date,100.00,USD
+tx3002,2024-01-02T11:00:00+00:00,-50.00,EUR
+tx3003,2024-01-03T11:00:00+00:00,20.00,US

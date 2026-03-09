@@ -1,0 +1,5 @@
+transaction_id,timestamp,amount,currency
+tx5001,2024-01-01T08:00:00+00:00,30.00,USD
+tx5002,bad-date,40.00,USD
+tx5003,2024-01-02T10:00:00+00:00,-10.00,EUR
+tx5004,2024-01-03T12:00:00+00:00,90.00,GBP
